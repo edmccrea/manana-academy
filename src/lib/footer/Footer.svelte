@@ -1,7 +1,7 @@
 <footer>
 	<div class="footer-grid">
 		<div class="logo">
-			<img src="%sveltekit.assets%/manana_logo.png" alt="manana logo" />
+			<!-- <img src="%sveltekit.assets%/manana_logo.png" alt="manana logo" /> -->
 		</div>
 		<div class="opening-times">
 			<h2>Opening Times</h2>
